@@ -5,7 +5,7 @@
 https://afdian.com/p/0164034c016c11ebafcb52540025c377 下载到任意路径即可
 
 ## 2.下载服务器客户端，让PCL启动器识别
-https://pan.quark.cn/s/a966e64fdcfc 提取码：3z3y
+[https://pan.quark.cn/s/a966e64fdcfc](https://pan.quark.cn/s/60d14164703f) 提取码：yfNj
 将网盘的下载的压缩包解压到PCL同一个文件夹下面
 
 打开PCL![image](https://github.com/user-attachments/assets/aa9e4da0-29b0-4f7c-8dfe-7d33f00882e7)
