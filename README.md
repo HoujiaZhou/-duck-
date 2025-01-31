@@ -5,6 +5,8 @@
 https://afdian.com/p/0164034c016c11ebafcb52540025c377 下载到任意路径即可
 
 ## 2.下载服务器客户端，让PCL启动器识别
+https://pan.quark.cn/s/cb24714b73a2 提取码：Rtem
+https://pan.quark.cn/s/725b47f546ac 提取码：vKNF 1.31 更新 跟下面文件同样的处理方式
 [https://pan.quark.cn/s/a966e64fdcfc](https://pan.quark.cn/s/60d14164703f) 提取码：yfNj
 将网盘的下载的压缩包解压到PCL同一个文件夹下面
 (1.19更新) https://pan.quark.cn/s/00202e80d03e 提取码：JLbK 把这个文件解压至mods文件夹内
